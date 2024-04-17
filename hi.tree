@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Scrum고군분투기"
+                 start-page="주제.md">
+    <toc-element topic="주제.md"/>
+    <toc-element topic="소개.md"/>
+    <toc-element topic="왜Scrum인가.md"/>
+    <toc-element topic="기본지식.md"/>
+    <toc-element topic="시작해보기.md"/>
+    <toc-element topic="결론.md"/>
+</instance-profile>
